@@ -1,0 +1,6 @@
+# NOTE: RENAME THIS FILE TO accounts.txt, THIS IS JUST AN EXAMPLE
+# be sure to actually put your accounts in email:password format, some examples are as below
+
+account@gmail.com:ThePassword123!
+another_account@hotmail.com:GoodPassword203#
+hypixel_fuck@hotmail.com:FUCKMESJSLJ!@$@??

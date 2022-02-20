@@ -1,0 +1,23 @@
+{
+  "name": "hypixel-account-tester",
+  "version": "1.0.0",
+  "description": "Tests hypixel accounts by logging them into the server and seeing if they're banned.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sxmurai/hypixel-account-tester.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sxmurai/hypixel-account-tester/issues"
+  },
+  "homepage": "https://github.com/Sxmurai/hypixel-account-tester#readme",
+  "dependencies": {
+    "minecraft-protocol": "^1.30.0"
+  }
+}
