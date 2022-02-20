@@ -6,3 +6,5 @@ You can either use index.js for testing multiple accounts (see [example_accounts
 Or for a single account, run testone.js with the argument format of email:password
 
 Small shitty project I made for fun
+
+btw you need nodejs lul
